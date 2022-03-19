@@ -12,8 +12,8 @@ const IndexPage = () => {
     <Layout pageTitle='Home'>
       <p>I'm making this by following the Gatsby Tutorial.</p>
       <StaticImage
-        alt="sakura"
-        src="https://images.unsplash.com/photo-1647601160728-e29cd3cccd0f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=1400&q=60"
+        alt="lucie"
+        src="../images/lucie.jpeg"
       />
     </Layout>
   )
