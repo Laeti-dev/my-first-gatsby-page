@@ -15,6 +15,7 @@ module.exports = {
         path: `${__dirname}/blog`,
         // adds all the files in the folder specified by the path option to the data layer.
       }
-    }
+    },
+    `gatsby-plugin-mdx`,
   ],
 }
