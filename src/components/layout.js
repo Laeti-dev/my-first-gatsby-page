@@ -9,8 +9,8 @@ import {
   navLinkItem,
   navLinkText,
   siteTitle,
+  postsInline,
 } from './layout.module.css'
-
 
 // instead of using the (props)
 // the { pageTitle, children } is called a Javascript destructuring technique

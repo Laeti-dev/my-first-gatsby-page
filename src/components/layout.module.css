@@ -28,3 +28,7 @@
 .nav-link-text {
   color: black;
 }
+
+.posts-inline {
+  display: inline;
+}
